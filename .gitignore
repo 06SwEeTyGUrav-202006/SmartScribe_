@@ -1,0 +1,12 @@
+# Firebase
+android/app/google-services.json
+lib/firebase_options.dart
+android/app/src/google-services.json
+
+
+# Python backend
+__pycache__/
+uploads/
+*.aac
+*.wav
+.env
